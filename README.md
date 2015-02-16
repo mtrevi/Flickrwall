@@ -39,3 +39,4 @@ Once you have updated the configuration file you can run the script simply typin
 ``` 
 python Flickrwall.py
 ```
+A log file will be generated following the name and path specified in the configuration file.
