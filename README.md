@@ -40,3 +40,9 @@ Once you have updated the configuration file you can run the script simply typin
 python Flickrwall.py
 ```
 A log file will be generated following the name and path specified in the configuration file.
+
+
+------------
+<h2>Notes</h2>
+
+Once the script is running the configuration file can be modified because it will be reloaded at each iteration (after the seconds specified in `time_seconds`).

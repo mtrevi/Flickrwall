@@ -7,7 +7,7 @@ auth = dict(
 )
 general = dict(
 	verbose = False,
-	time_seconds = 600,
+	time_seconds = 1200,
 	last_n_photos = 500,
 	number_of_screens = 1,
 	logfile = 'flickrwall.log',
