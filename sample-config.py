@@ -3,7 +3,7 @@ auth = dict(
 	key = 'yourkey',
 	secret = 'yoursecret',
 	username = 'yourusername',
-	filename = '.auth_user.dat',
+	auth_file = '.auth_user.dat',
 )
 general = dict(
 	verbose = False,

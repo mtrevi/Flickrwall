@@ -39,7 +39,7 @@ class Flickrwall:
 
    def authenticate(self):
       # IF FILE NOT FOUND
-      FILENAME = config.auth['filename']
+      FILENAME = config.auth['auth_file']
       if os.path.isfile(FILENAME):
          self.log.info('Loading Oauth Data from %s' %FILENAME )
          f.set_keys(api_key=config.auth['key'], api_secret=config.auth['secret'])
