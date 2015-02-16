@@ -1,15 +1,12 @@
 # Flickrwall
 
-<h2>Flickrwall</h2>
-
-This is a collection of PIG scripts that deal with internal and external source in order to retrieve additional information abotu the landing page, such as Page Rank, Financial Ranking Score, etc.
-
-The scripts are not dependent among them, therefore feel free to use the one that fits your need.
-
-Edit the scripts in order to change the input path of the Creative Ids and the output path of the data you want to extract.
+This python script will change your desktop wallpaper using your Flickr photos.
+The script currently works only in Mac OSX.
 
 ------------
-<h3>Retrieve PageRank Score for a Domain URL</h3>
+<h3>Configuration</h3>
+
+The settins 
 
 This script extract the PageRank score for a list of URL domains using the `WebCrawlCache` (WCC) on `Nitro-Blue`. 
 For more information about the `WCC` visit [this twiki](http://twiki.corp.yahoo.com/view/Yst/WebCrawlCache).

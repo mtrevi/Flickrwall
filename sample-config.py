@@ -1,8 +1,8 @@
 
 auth = dict(
-	key = '5939f32c05a2f0ef919a75d793577f4b',
-	secret = '576648ad69ee04f8',
-	username = 'xarabas',
+	key = 'yourkey',
+	secret = 'yoursecret',
+	username = 'yourusername',
 	filename = '.auth_user.dat',
 )
 general = dict(
@@ -12,7 +12,7 @@ general = dict(
 	number_of_screens = 1,
 	logfile = 'flickrwall.log',
 	photo_name = 'DefaultDesktop.jpg',
-	photos_folder = '/Users/trevi/Pictures/Flickrwalls',
+	photos_folder = '~/Pictures/Flickrwalls',
 )
 filtering = dict(
 	accepted_tags = ['bg','peru','australia'],
