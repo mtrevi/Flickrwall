@@ -1,7 +1,8 @@
 # Flickrwall
 
-This python script will change your desktop wallpaper using your Flickr photos.
-The script currently works only in Mac OSX.
+This script helps you to change automatically your desktop wallpaper using the photos that you have stored in Flickr.
+You can specify varios settings in the configuration file, such as rotation time, tags, number of screens and so on.
+Note that the script currently works only in Mac OSX.
 
 ------------
 <h2>Configuration</h2>
